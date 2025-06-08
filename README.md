@@ -5,6 +5,7 @@
 
 INTRODUCTION
 This architecture represents a  single-tier architecture which is a basic application design where all components (such as the web server, application logic, and database) are hosted on a single instance or layer. We have designed this architecture to be cost-effective, scalable, secure and highly available. 
+
 ARCHITECTURE OVERVIEW.
 Infrastructure and Network.
 1.	Virtual Private Cloud: This is our Private or logically isolated space in the AWS cloud where we can launch AWS resources we want. We can define our IP ranges, subnets, route tables.
